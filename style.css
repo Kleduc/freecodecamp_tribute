@@ -1,0 +1,50 @@
+h1 {
+  font-family: Dancing Script;
+  font-size: 8em;
+  margin: 50px 0;
+}
+
+h2 {
+  font-family: Dancing Script;
+  font-size: 4em;
+  text-align: center;
+  background-color: #e5ffe5;
+}
+
+a {
+  float: right;
+}
+
+.heading {
+  background-color: #e5ffe5 !important;
+  font-size: 1.3em;
+}
+
+.quote {
+  margin: 128px 0px;
+  font-family: Quicksand;
+  text-align: center;
+  font-style: italic;
+  color: #777;
+}
+
+.hero-style {
+  height: 300px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.rosalind-1 {
+  background-image: url("http://www.csueastbay.edu/news/blog/files/images/Rosalind%20Franklin.png");
+}
+
+.rosalind-2 {
+  background-image: url("http://ichef.bbci.co.uk/news/660/media/images/60251000/jpg/_60251254_photo-51-print-qp867-a4.jpg");
+}
+
+.rosalind-3 {
+  background-image: url("https://mykindofscience.files.wordpress.com/2015/01/franklin.jpg");
+}
